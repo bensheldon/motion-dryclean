@@ -27,7 +27,7 @@ Add it to your Gemfile (inside development group):
 gem 'motion-dryclean'
 ```
 
-Make sure Guard::Motion is loaded in your project Rakefile:
+Make sure motion-dryclean is loaded in your project Rakefile:
 
 ```ruby
 require 'motion-dryclean'
@@ -36,6 +36,6 @@ require 'motion-dryclean'
 
 ## Development
 
-* Source hosted at [GitHub](https://github.com/bensheldon/guard-dryclean)
-* Report issues/Questions/Feature requests on [GitHub Issues](https://github.com/bensheldon/guard-dryclean/issues)
+* Source hosted at [GitHub](https://github.com/bensheldon/motion-dryclean)
+* Report issues/Questions/Feature requests on [GitHub Issues](https://github.com/bensheldon/motion-dryclean/issues)
 
