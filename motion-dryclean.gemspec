@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["bensheldon@gmail.com"]
   gem.description   = %q{Rake tasks for cleaning the RubyMotion environment}
   gem.summary       = %q{Rake tasks for cleaning the RubyMotion environment}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/bensheldon/guard-dryclean"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
